@@ -8,4 +8,9 @@ Scenario: Search for Testers Talk
 	When Enter the URL
 	Then Search for the Testers Talk
 
+@TestersTalk
+Scenario: Search for Testers Talk2
+	Given Open the browser
+	When Enter the URL
+	Then Search for the Testers Talk
 

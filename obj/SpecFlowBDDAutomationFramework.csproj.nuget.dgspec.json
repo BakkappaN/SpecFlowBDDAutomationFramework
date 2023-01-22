@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2023\\SpecflowBDDFramework\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {}
+    "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {}
   },
   "projects": {
-    "E:\\2023\\SpecflowBDDFramework\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {
+    "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2023\\SpecflowBDDFramework\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
+        "projectUniqueName": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
         "projectName": "SpecFlowBDDAutomationFramework",
-        "projectPath": "E:\\2023\\SpecflowBDDFramework\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
+        "projectPath": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
         "packagesPath": "C:\\Users\\Bakkappa N\\.nuget\\packages\\",
-        "outputPath": "E:\\2023\\SpecflowBDDFramework\\SpecFlowBDDAutomationFramework\\obj\\",
+        "outputPath": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bakkappa N\\AppData\\Roaming\\NuGet\\NuGet.Config",

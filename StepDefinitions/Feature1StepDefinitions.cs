@@ -8,11 +8,17 @@ namespace SpecFlowBDDAutomationFramework.StepDefinitions
     {
         private IWebDriver driver;
 
+       public Feature1StepDefinitions(IWebDriver driver)
+        {
+            this.driver = driver;
+        }
+
+
         [Given(@"Open the browser")]
         public void GivenOpenTheBrowser()
         {
-            driver = new ChromeDriver();
-            driver.Manage().Window.Maximize();
+         //   driver = new ChromeDriver();
+         //   driver.Manage().Window.Maximize();
         }
 
         [When(@"Enter the URL")]
@@ -29,7 +35,7 @@ namespace SpecFlowBDDAutomationFramework.StepDefinitions
             driver.FindElement(By.XPath("//*[@name='search_query']")).SendKeys(" Testers Talk ");
             driver.FindElement(By.XPath("//*[@name='search_query']")).SendKeys(Keys.Enter);
             Thread.Sleep(5000);
-            driver.Quit();
+          //  driver.Quit();
         }
 
     }
