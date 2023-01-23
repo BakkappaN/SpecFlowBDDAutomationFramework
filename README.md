@@ -18,7 +18,13 @@ SpecFlow BDD Automation Framework Selenium C# .NET Tutorials
 
 
 
-### Specflow Selenium C# sample extent report in html
+### Specflow Selenium C# sample extent report
+
 ![image](https://user-images.githubusercontent.com/22426896/214098264-7ab60624-6432-4040-9a7a-8bae6f72b33d.png)
 
 ![image](https://user-images.githubusercontent.com/22426896/214098680-146e2314-5433-49d2-ab96-506075e66579.png)
+
+### Scenario Failed in Extent Report
+
+![image](https://user-images.githubusercontent.com/22426896/214100556-a4ea28cc-0086-4ccc-9ce0-6f1e79f6cf5c.png)
+
