@@ -1,10 +1,15 @@
-# SpecFlow Selenium C# End to End BDD Automation Framework Contents
-SpecFlow BDD Automation Framework Selenium C# .NET Tutorials
+# SpecFlow Selenium C# BDD Automation Framework from Scratch -
+
+Playlist - https://www.youtube.com/watch?v=tpANSHdrwp8&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=1
+
+
 
 1. ## Specflow Selenium C# End to End BDD Automation Framework from Scratch
 # Link - https://youtu.be/tpANSHdrwp8
 
 2. ## Hooks in SpecFlow
+# Link - https://youtu.be/mGWIzf82zyo
+
 3. ## Extent Report
 4. ## Attach screenshots for failed Scripts
 5. ## Data Driven Testing 
