@@ -37,3 +37,10 @@
 
 ![image](https://user-images.githubusercontent.com/22426896/214100556-a4ea28cc-0086-4ccc-9ce0-6f1e79f6cf5c.png)
 
+
+### Add or Attach screenshot when test script failed
+![image](https://user-images.githubusercontent.com/22426896/215818156-046fca68-3112-4e8b-ab81-a17c23913d41.png)
+
+
+
+# ENJOY learning!!!
