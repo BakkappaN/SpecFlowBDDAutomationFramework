@@ -9,15 +9,15 @@
 1. ## Specflow Selenium C# End to End BDD Automation Framework from Scratch
 # Link - https://youtu.be/tpANSHdrwp8
 
-2. ## Hooks in SpecFlow
+2. ## Implement Hooks in SpecFlow
 # Link - https://youtu.be/mGWIzf82zyo
 
 3. ## How to Generate Extent Report?
 # Link - https://youtu.be/qKJ3ZwC8Tag
 
-4. ## How to Attach screenshots into Extent Report for failed Scripts
-5. ## How to Perform Data Driven Testing - Using Data Tables & Examples
-6. ## How to Implement Page Object Model
+4. ## How to Add or Attach screenshots into Extent Report for failed Scripts?
+5. ## How to Perform Data Driven Testing - Using Data Tables & Examples?
+6. ## How to Implement Page Object Model?
 
 
 ### Specflow bdd selenium c# LivingDoc html sample report
