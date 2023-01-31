@@ -13,6 +13,8 @@
 # Link - https://youtu.be/mGWIzf82zyo
 
 3. ## Extent Report
+# Link - https://youtu.be/qKJ3ZwC8Tag
+
 4. ## Attach screenshots for failed Scripts
 5. ## Data Driven Testing 
 6. ## Page Object Model
