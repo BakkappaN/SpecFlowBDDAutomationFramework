@@ -12,12 +12,12 @@
 2. ## Hooks in SpecFlow
 # Link - https://youtu.be/mGWIzf82zyo
 
-3. ## Extent Report
+3. ## How to Generate Extent Report?
 # Link - https://youtu.be/qKJ3ZwC8Tag
 
-4. ## Attach screenshots for failed Scripts
-5. ## Data Driven Testing 
-6. ## Page Object Model
+4. ## How to Attach screenshots into Extent Report for failed Scripts
+5. ## How to Perform Data Driven Testing - Using Data Tables & Examples
+6. ## How to Implement Page Object Model
 
 
 ### Specflow bdd selenium c# LivingDoc html sample report
