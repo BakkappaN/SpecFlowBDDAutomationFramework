@@ -25,7 +25,7 @@ namespace SpecFlowBDDAutomationFramework.StepDefinitions
         public void WhenEnterTheURL()
         {
             driver.Url = "https://www.youtube.com/";
-            Thread.Sleep(5000);
+            Thread.Sleep(3000);
             
         }
 
