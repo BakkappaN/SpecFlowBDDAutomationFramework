@@ -20,7 +20,7 @@
 6. ## How to Implement Page Object Model?
 
 
-### Specflow bdd selenium c# LivingDoc html sample report
+### Specflow C# LivingDoc html sample report
 ![image](https://user-images.githubusercontent.com/22426896/213457170-e4ade55d-0c57-48df-b4c5-fc47ccd88b4f.png)
 
 ![image](https://user-images.githubusercontent.com/22426896/213457469-18a3be25-5e7b-467c-b629-5a766b8aeb92.png)
@@ -33,7 +33,7 @@
 
 ![image](https://user-images.githubusercontent.com/22426896/214098680-146e2314-5433-49d2-ab96-506075e66579.png)
 
-### Scenario Failed in Extent Report
+### Extent Report For Failed Scenario or Script
 
 ![image](https://user-images.githubusercontent.com/22426896/214100556-a4ea28cc-0086-4ccc-9ce0-6f1e79f6cf5c.png)
 
