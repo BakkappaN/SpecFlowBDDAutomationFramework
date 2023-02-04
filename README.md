@@ -1,13 +1,13 @@
 ### SpecFlow Selenium C# BDD Automation Framework from Scratch -
 
-# Contents
+## Contents
 
-# Playlist - https://www.youtube.com/watch?v=tpANSHdrwp8&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=1
+# Full Course - https://youtu.be/7xPcalwU76c
 
 
 
 1. ## Specflow Selenium C# End to End BDD Automation Framework from Scratch
-# Link - https://youtu.be/tpANSHdrwp8
+# Link - https://www.youtube.com/watch?v=tpANSHdrwp8&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=1
 
 2. ## Implement Hooks in SpecFlow
 # Link - https://youtu.be/mGWIzf82zyo
