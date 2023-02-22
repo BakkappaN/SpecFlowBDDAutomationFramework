@@ -10,12 +10,14 @@
 # Link - https://www.youtube.com/watch?v=tpANSHdrwp8&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=1
 
 2. ## Implement Hooks in SpecFlow
-# Link - https://youtu.be/mGWIzf82zyo
+# Link - https://www.youtube.com/watch?v=mGWIzf82zyo&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=2
 
 3. ## How to Generate Extent Report?
-# Link - https://youtu.be/qKJ3ZwC8Tag
+# Link - https://www.youtube.com/watch?v=qKJ3ZwC8Tag&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=3
 
 4. ## How to Add or Attach screenshots into Extent Report for failed Scripts?
+# https://www.youtube.com/watch?v=4NfT9w1wMLc&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=5
+
 5. ## How to Perform Data Driven Testing - Using Data Tables & Examples?
 6. ## How to Implement Page Object Model?
 
