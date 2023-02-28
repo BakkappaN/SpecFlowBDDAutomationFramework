@@ -49,7 +49,7 @@
           </li>
             <li class="m-r-10">
                 <a href="#">
-                    <span class="badge badge-primary">30-01-2023 21:38:51</span>
+                    <span class="badge badge-primary">01-02-2023 23:28:39</span>
                 </a>
             </li>
         </ul>
@@ -104,7 +104,7 @@
 						<i class="fa fa-exclamation-circle"></i>
 					</a>
 					<ul id="status-toggle" class="dropdown-menu dropdown-md p-v-0">
-<a status="pass" class="dropdown-item" href="#"><span>Pass</span><span class="status success pull-right"></span></a>																																				<div class="dropdown-divider"></div>
+<a status="pass" class="dropdown-item" href="#"><span>Pass</span><span class="status success pull-right"></span></a>						<a status="fail" class="dropdown-item" href="#"><span>Fail</span><span class="status danger pull-right"></span></a>																														<div class="dropdown-divider"></div>
 						<a status="clear" class="dropdown-item" href="#"><span>Clear</span><span class="pull-right"><i class="fa fa-close"></i></span></a>
 					</ul>
 				</li>
@@ -112,25 +112,25 @@
         </div>
         <div class="test-list-wrapper scrollable">
             <ul class="test-list-item">
-					<li class="test-item" status="pass" author="" device="" tag="" test-id="1"> 
-						<div class="status-avatar pass-bg">
-							<i class="fa fa-check text-white"></i>
+					<li class="test-item" status="fail" author="" device="" tag="" test-id="1"> 
+						<div class="status-avatar fail-bg">
+							<i class="fa fa-times text-white"></i>
 						</div>
 						<div class="open-test">
 							<div class="test-detail"> 
-								<p class="name">DataTable Data Driven Testing</p> 
-								<p class="duration text-sm">0h:0m:43s+395ms</p> 
-								<span class="datetime">21:38:51 PM</span>
+								<p class="name">PageObjectModel</p> 
+								<p class="duration text-sm">0h:0m:50s+162ms</p> 
+								<span class="datetime">23:28:39 PM</span>
 							</div>
 						</div>
 						<div class="test-contents d-none">
 							<div class="detail-head">
 								<div class="p-v-10 d-inline-block">	
 									<div class="info">
-										<h5 class="test-status text-pass">DataTable Data Driven Testing</h5>
-										<span class='badge badge-success'>30-01-2023 21:38:51</span>
-										<span class='badge badge-danger'>30-01-2023 21:39:35</span>
-										<span class='badge badge-default'>0h:0m:43s+395ms</span>
+										<h5 class="test-status text-fail">PageObjectModel</h5>
+										<span class='badge badge-success'>01-02-2023 23:28:39</span>
+										<span class='badge badge-danger'>01-02-2023 23:29:29</span>
+										<span class='badge badge-default'>0h:0m:50s+162ms</span>
 									</div>
 																	</div>
 							</div>
@@ -139,9 +139,9 @@
 	<div class="card">
 		<div class="card-header" role="tab">
 			<div class="card-title pl-3">
-				<div class="node">Scenario: DataTable Data Driven Testing</div>
-				<div class="status-avatar float-left pass-bg">
-					<i class="fa fa-check text-white"></i>
+				<div class="node">Scenario: PageObjectModel</div>
+				<div class="status-avatar float-left fail-bg">
+					<i class="fa fa-times text-white"></i>
 				</div>
 			</div>
 		</div>
@@ -151,20 +151,31 @@
                                 <span class="alert-icon pass-bg">
                                     <i class="fa fa-check text-white"></i>
                                 </span>
-                                <span>Given Open the browser</span>
+                                <span>Given Enter the youtube URL</span>
                             </div>
                             <div class="d-flex align-items-center justify-content-start when" title="">
                                 <span class="alert-icon pass-bg">
                                     <i class="fa fa-check text-white"></i>
                                 </span>
-                                <span>When Enter the URL</span>
+                                <span>When Search for the testers talk in youtube</span>
                             </div>
-                            <div class="d-flex align-items-center justify-content-start then" title="">
+                            <div class="d-flex align-items-center justify-content-start when" title="">
                                 <span class="alert-icon pass-bg">
                                     <i class="fa fa-check text-white"></i>
                                 </span>
-                                <span>Then Enter search keyword in Youtube</span>
+                                <span>When Navigate to channel</span>
                             </div>
+                            <div class="d-flex align-items-center justify-content-start then" title="">
+                                <span class="alert-icon fail-bg">
+                                    <i class="fa fa-times text-white"></i>
+                                </span>
+                                <span>Then Verify title of the page</span>
+                            </div>
+			<div class="details">Expected string length 15 but was 22. Strings differ at index 15.
+  Expected: "Testers Talk - "
+  But was:  "Testers Talk - YouTube"
+  --------------------------^</div>
+			<span class="badge badge-primary"><img class='r-img' title='' onerror='this.style.display="none"' data-featherlight='E:\2023\SpecflowBDDFramework\Repo\SpecFlowBDDAutomationFramework\TestResults\PageObjectModel.png' src='E:\2023\SpecflowBDDFramework\Repo\SpecFlowBDDAutomationFramework\TestResults\PageObjectModel.png' data-src='E:\2023\SpecflowBDDFramework\Repo\SpecFlowBDDAutomationFramework\TestResults\PageObjectModel.png'></span>
                     </div>
 				</div>
 	</div>
@@ -202,11 +213,11 @@
 	                </div>
 	            </div>
 	            <div class="card-footer">
-	                <div><small data-tooltip='100%'>
-	                    <b>1</b> features passed
+	                <div><small data-tooltip='0%'>
+	                    <b>0</b> features passed
                     </small></div>
 	                <div>
-	                    <small data-tooltip='0%'><b>0</b> features failed, 
+	                    <small data-tooltip='100%'><b>1</b> features failed, 
 	                    <b data-tooltip='0%'>0</b> others
 	                    </small>
                     </div>
@@ -224,9 +235,9 @@
 	                </div>
 	            </div>
 	            <div class="card-footer">
-	                <div><small data-tooltip='100%'><b>1</b> scenarios passed</small></div>
+	                <div><small data-tooltip='0%'><b>0</b> scenarios passed</small></div>
 	                <div>
-	                    <small data-tooltip='0%'><b>0</b> scenarios failed, 
+	                    <small data-tooltip='100%'><b>1</b> scenarios failed, 
 	                    <b data-tooltip='0%'>0</b> others
 	                    </small>
                     </div>
@@ -244,9 +255,9 @@
 	                </div>
 	            </div>
 	            <div class="card-footer">
-	                <div><small data-tooltip='100%'><b>3</b> steps passed</small></div>
+	                <div><small data-tooltip='75%'><b>3</b> steps passed</small></div>
 	                <div>
-	                    <small data-tooltip='0%'><b>0</b> steps failed, 
+	                    <small data-tooltip='25%'><b>1</b> steps failed, 
 	                    <b data-tooltip='0%'>0</b> others
 	                    </small>
                     </div>
@@ -264,7 +275,7 @@
 							<h2 class="font-size-28 font-weight-light">1</h2>
 							<span class="text-semibold text-success font-size-15">
 							<i class="ti-arrow-up font-size-11"></i> 
-								<span>100%</span>
+								<span>0%</span>
 							</span>
 						</div>
 						<div class="align-self-end">
@@ -283,7 +294,7 @@
 							<h2 class="font-size-28 font-weight-light">1</h2>
 							<span class="text-semibold text-success font-size-15">
 							<i class="ti-arrow-up font-size-11"></i> 
-								<span>100%</span>
+								<span>0%</span>
 							</span>
 						</div>
 						<div class="align-self-end">
@@ -299,7 +310,7 @@
 	                <div class="media justify-content-between">
 						<div>
 							<h6 class="card-title">Start</h6>
-							<h6 class="font-weight-light">30-01-2023 21:38:51</h6>
+							<h6 class="font-weight-light">01-02-2023 23:28:39</h6>
 							<span class="text-semibold text-success font-size-15">
 						</div>
 						<div class="align-self-end">
@@ -315,7 +326,7 @@
 	                <div class="media justify-content-between">
 						<div>
 							<h6 class="card-title">Duration</h6>
-							<h6 class="font-weight-light">00:00:52.1260963</h6>
+							<h6 class="font-weight-light">00:00:55.9967579</h6>
 							<span class="text-semibold text-danger font-size-15">
 						</div>
 						<div class="align-self-end">
@@ -363,33 +374,33 @@
 <script>
 	var statusGroup = {
     parentCount: 1,
-		passParent: 1,
-		failParent: 0,
+		passParent: 0,
+		failParent: 1,
 		fatalParent: 0,
 		errorParent: 0,
 		warningParent: 0,
 		skipParent: 0,
-		exceptionsParent: 0,
+		exceptionsParent: 1,
 		childCount: 1,
-		passChild: 1,
-		failChild: 0,
+		passChild: 0,
+		failChild: 1,
 		fatalChild: 0,
 		errorChild: 0,
 		warningChild: 0,
 		skipChild: 0,
 		infoChild: 0,
 		debugChild: 0,
-		exceptionsChild: 0,
-		grandChildCount: 3,
+		exceptionsChild: 1,
+		grandChildCount: 4,
 		passGrandChild: 3,
-		failGrandChild: 0,
+		failGrandChild: 1,
 		fatalGrandChild: 0,
 		errorGrandChild: 0,
 		warningGrandChild: 0,
 		skipGrandChild: 0,
 		infoGrandChild: 0,
 		debugGrandChild: 0,
-		exceptionsGrandChild: 0,
+		exceptionsGrandChild: 1,
 	};
 </script>
 
