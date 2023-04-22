@@ -19,6 +19,7 @@
 # Link - https://www.youtube.com/watch?v=4NfT9w1wMLc&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=5
 
 5. ## How to Perform Data Driven Testing - Using Data Tables & Examples?
+  # Part-01 Link - https://www.youtube.com/watch?v=8yE_Opp8TNU&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=6
 6. ## How to Implement Page Object Model?
 
 
