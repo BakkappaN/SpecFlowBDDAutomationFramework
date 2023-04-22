@@ -2,7 +2,7 @@
 
 ## Contents
 
-# Full Course - https://youtu.be/7xPcalwU76c
+# Full Course - https://www.youtube.com/watch?v=7xPcalwU76c&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=1
 
 
 
